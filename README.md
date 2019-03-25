@@ -1,3 +1,9 @@
+# Assumptions
+
+1. System is CentOS or Ubuntu
+1. Python3 is installed
+1. pip3 is installed
+
 # How To
 
 1. Skip this step If you already have Docker and Docker Compose installed
